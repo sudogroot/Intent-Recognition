@@ -1,4 +1,4 @@
-import { combineReducers } from 'redux';
+import {combineReducers} from 'redux';
+import inientRecognition from './intentRecognition';
 
-
-export default combineReducers({ })
+export default combineReducers({inientRecognition});
